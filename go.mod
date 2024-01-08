@@ -1,4 +1,4 @@
-module github.com/fatedier/golib
+module github.com/kernux/golib
 
 go 1.20
 
